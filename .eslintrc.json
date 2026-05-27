@@ -14,8 +14,18 @@
   "rules": {
     "no-unused-vars": "error",
     "no-console": "warn",
-    "semi": ["error", "always"],
-    "quotes": ["error", "single"]
+    "semi": [
+      "error",
+      "always"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ]
   },
-  "ignorePatterns": ["node_modules/", "dist/", "build/"]
+  "ignorePatterns": [
+    "node_modules/",
+    "dist/",
+    "build/"
+  ]
 }

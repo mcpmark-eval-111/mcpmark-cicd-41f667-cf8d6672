@@ -1,1 +1,2 @@
-const unusedVar = "double quotes and no semi"
+const unusedVar = "this is a test";
+console.log('hello')
