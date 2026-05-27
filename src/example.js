@@ -1,1 +1,2 @@
-const unusedVar = "hello"
+const usedVar = 'hello';
+module.exports = usedVar;
