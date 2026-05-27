@@ -1,2 +1,1 @@
-const unusedVar = "this is a test";
-console.log('hello')
+const unusedVar = "hello"
