@@ -1,2 +1,5 @@
-const usedVar = 'hello';
-module.exports = usedVar;
+const greeting = 'Hello World';
+function greet() {
+  return greeting;
+}
+greet();
